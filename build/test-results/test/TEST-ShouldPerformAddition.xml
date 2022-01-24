@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShouldPerformAddition" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-24T03:41:34" hostname="DESKTOP-9TLMHNQ" time="0.033">
+  <properties/>
+  <testcase name="Sh0uldDivideTwoNumbers" classname="ShouldPerformAddition" time="0.013"/>
+  <testcase name="Sh0uldMultiplyTwoNumbers" classname="ShouldPerformAddition" time="0.0"/>
+  <testcase name="ShouldAddTwoNumbers" classname="ShouldPerformAddition" time="0.003"/>
+  <testcase name="ShouldMinusTwoNumbers" classname="ShouldPerformAddition" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
